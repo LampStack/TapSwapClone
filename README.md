@@ -1,3 +1,6 @@
+Main Repo : https://github.com/LampStack/NotCoinClone
+
+
 # TapSwap Telegram Bot Clone Source Code [TapSwapCloneBot](https://t.me/TapSwapCloneBot)
 
 
